@@ -3,4 +3,4 @@ A simple brute force tool for steghide writed in bash
 
 Call it in terminal as:
 
-. stegbruter.sh filename.jpeg rockyou.txt
+. stegbruter.sh filename.jpeg passwordlist.txt
